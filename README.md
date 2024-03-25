@@ -1,38 +1,65 @@
-# Hi there, I'm Jaskaran! 👋
 
-I'm a passionate mobile developer with a keen interest in creating engaging and user-friendly mobile applications. My journey into the world of mobile development started with my fascination for technology and my desire to create software that makes a positive impact on people's lives.
-
-## 🔧 Technologies & Tools
-- **Languages:** Swift, Kotlin, Java
-- **Frameworks & Libraries:** SwiftUI, UIKit, Android Jetpack
-- **Tools:** Xcode, Android Studio, Git, GitHub
-
-## 🌱 Currently Learning
-I'm constantly exploring new technologies and enhancing my skills to stay up-to-date with the latest trends in mobile development. Currently, I'm diving deeper into SwiftUI to build more modern and efficient iOS applications.
-
-## 🚀 Projects
-- **Project 1:** [Name of Project](link) - Brief description.
-- **Project 2:** [Name of Project](link) - Brief description.
-- **Project 3:** [Name of Project](link) - Brief description.
-
-## 💬 Let's Connect
-If you're interested in collaborating on exciting mobile projects or just want to chat about mobile development, feel free to reach out to me!
-
-- LinkedIn: [Jaskaran's LinkedIn Profile](link)
-- Email: [YourEmail@example.com](mailto:YourEmail@example.com)
-
-## 📈 GitHub Stats
-![Jaskaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-
-## Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-
-
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>Add a brief description about yourself here.</p>
+        
+        <h2>Skills</h2>
+        <ul>
+            <li>Skill 1</li>
+            <li>Skill 2</li>
+            <li>Skill 3</li>
+        </ul>
+        
+        <h2>Projects</h2>
+        <ul>
+            <li><a href="#">Project 1</a></li>
+            <li><a href="#">Project 2</a></li>
+            <li><a href="#">Project 3</a></li>
+        </ul>
+        
+        <h2>Contact</h2>
+        <p>Email: your.email@example.com</p>
+        <p>GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a></p>
+    </div>
+</body>
+</html>
